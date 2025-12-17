@@ -10,6 +10,7 @@ country: India
 
 ## Welcome
 Welcome to the OWASP Nashik Chapter! We are a community of security enthusiasts, hackers, and developers passionate about application security.
+![OWASP Nashik logo](assets/images/logo3.png)
 
 ### Upcoming Meetings
 We schedule our meetings on the [OWASP Nashik Chapter Meetup](https://www.meetup.com/owasp-nashik-chapter/).
