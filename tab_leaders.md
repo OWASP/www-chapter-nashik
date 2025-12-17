@@ -9,7 +9,7 @@ tags: NSK
 
 
 # **Chapter Leaders**
-### **Abhishek Pawar (2025 - Present)**
+## **Abhishek Pawar**
 
 Abhishek is an ethical hacker and red teamer with hands-on experience in
 web security, cloud security, and CTF-based learning. He actively works on
@@ -24,7 +24,7 @@ LinkedIn: [Abhishek Pawar](https://www.linkedin.com/in/pawar-abhishek17/)
 
 ---
 
-### **Parth Bhandari (2025 - Present)**
+## **Parth Bhandari**
 
 Parth is a cybersecurity enthusiast with hands-on experience in web security,
 CTF solving, and practical vulnerability analysis. He actively contributes to
@@ -38,7 +38,7 @@ LinkedIn: [Parth Bhandari](https://www.linkedin.com/in/parth-bhandari/)
 
 ---
 
-### **Om Desale (2025 - Present)**
+## **Om Desale**
 
 Om is a multidisciplinary cybersecurity professional and community leader focused on defensive security and system fundamentals. As a Core Member of CyberX Nashik, he actively contributes by organizing initiatives and promoting security awareness. With skills in design and web development, he creates hands-on learning experiences and practical security projects. He is also an engaging public speaker and an enthusiast of AI and LLM technologies.
 
