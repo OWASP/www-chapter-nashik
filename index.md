@@ -8,20 +8,14 @@ postal-code: 422001
 country: India
 ---
 
-## Welcome
-Welcome to the OWASP Nashik Chapter! We are a community of security enthusiasts, hackers, and developers passionate about application security.
 ![OWASP Nashik logo](assets/images/logo3.png)
+## OWASP Nashik
+Welcome to the OWASP Nashik Chapter! We are a community of security enthusiasts, hackers, and developers passionate about application security.
 
-### Upcoming Meetings
-We schedule our meetings on the [OWASP Nashik Chapter Meetup](https://www.meetup.com/owasp-nashik-chapter/).
 
-Our meetings are open to the public, and you do not need to be a member to attend. Please consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable.
+## Upcoming Meetings
+Most Probably in February 2026 !!
 
-### Short Links
-* [OWASP Nashik Meetup](https://www.meetup.com/owasp-nashik-chapter/)
-* [LinkedIn](https://www.linkedin.com/company/owasp-nashik/)
-* [Instagram](https://www.instagram.com/owasp_nashik/)
-* [Official Chapter Page](https://owasp.org/www-chapter-nashik/)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
