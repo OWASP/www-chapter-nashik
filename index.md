@@ -1,16 +1,38 @@
 ---
 
 layout: col-sidebar
-title: OWASP Bangalore
+title: OWASP Nashik
 tags: NSK
 level: 0
 region: Asia
-meetup-group: owasp-bangalore-chapter
+meetup-group: owasp-nashik-chapter
 country: India
-postal-code: 
+postal-code: 422001
 
 ---
 
+## Welcome
+Include some information here about your chapter
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Nashik Chapter Meetup](https://www.meetup.com/owasp-nashik-chapter/)
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+### Join our low traffic mailing list for event information
+
+### Follow @owaspbangalore for event updates on Twitter
+**[OWASP Nashik Twitter Account](https://twitter.com/)**
+
+### Short Links for sharing 
+  
+  - [OWASP Bangalore Meetup](https://www.meetup.com/owasp-nashik-chapter/)
+  
+
+
+
+<!-- You should delete this comment
 <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
