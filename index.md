@@ -9,7 +9,7 @@ country: India
 ---
 
 ![OWASP Nashik logo](assets/images/logo3.png)
-## OWASP Nashik
+# OWASP Nashik
 Welcome to the OWASP Nashik Chapter! We are a community of security enthusiasts, hackers, and developers passionate about application security.
 
 
