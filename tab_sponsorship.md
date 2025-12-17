@@ -9,4 +9,4 @@ tags: NSK
 
 # Sponsorship
 
-> To sponsor this chapter kindly contact [Abhishek Pawar](mailto:Abhishek,pawar@owasp.org).
+> To sponsor this chapter kindly contact [Parth Bhandari](mailto:parth.bhandari@owasp.org).
