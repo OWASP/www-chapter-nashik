@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Abhishek Pawar](mailto:abhishek.pawar@owasp.org)
+* [Parth Bhandari](mailto:parth.bhandari@owasp.org)
+* [Om Desale](mailto:om.m.desale@owasp.org)
