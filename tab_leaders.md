@@ -22,7 +22,7 @@ focusing on practical and real-world attack scenarios.
 LinkedIn: [Abhishek Pawar](https://www.linkedin.com/in/pawar-abhishek17/)
 
 
-
+---
 
 ### **Parth Bhandari (2025 - Present)**
 
@@ -36,6 +36,7 @@ real-world attack techniques and defensive understanding.
 
 LinkedIn: [Parth Bhandari](https://www.linkedin.com/in/parth-bhandari/)
 
+---
 
 ### **Om Desale (2025 - Present)**
 
