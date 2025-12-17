@@ -17,12 +17,11 @@ We schedule our meetings on the [OWASP Nashik Chapter Meetup](https://www.meetup
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable.
 
-### Stay Connected
-* **Mailing List:** Join our low traffic mailing list for event information.
-* **Social:** Follow us on Twitter for updates.
-
 ### Short Links
 * [OWASP Nashik Meetup](https://www.meetup.com/owasp-nashik-chapter/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-nashik/)
+* [Instagram](https://www.instagram.com/owasp_nashik/)
+* [Official Chapter Page](https://owasp.org/www-chapter-nashik/)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
