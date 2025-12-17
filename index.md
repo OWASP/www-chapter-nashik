@@ -1,11 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Nashik
-tags: example-tag
+title: OWASP Bangalore
+tags: NSK
+level: 0
 region: Asia
+meetup-group: owasp-bangalore-chapter
 country: India
-meetup-group:
+postal-code: 
 
 ---
 
