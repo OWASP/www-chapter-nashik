@@ -1,5 +1,5 @@
 ## Chapter Information
-![OWASP Yerevan logo](assets/images/logo3.png)
+![OWASP Yerevan logo](assets/images/logo1T.png)
 
 ## Social Links
 * [Meetup](https://www.meetup.com/owasp-nashik-chapter/)
