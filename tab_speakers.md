@@ -10,7 +10,7 @@ tags: NSK
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP TIET meetup? [Contact Us](mailto:prajit.sengupta@owasp.org)
+Would you like to speak on the upcoming OWASP TIET meetup? [Contact Us](mailto:om.m.desale@owasp.org)
 
 **Email Format :**
 
