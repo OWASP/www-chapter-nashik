@@ -5,7 +5,6 @@
 
 ### Social Links
 
-* [Whatsapp Registration](https://forms.gle/xz3JrNnbdRcXY76k8)
 * [Meetup](https://www.meetup.com/owasp-nashik-chapter/)
 * [Instagram](https://www.instagram.com/owasp_nashik/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-nashik)
